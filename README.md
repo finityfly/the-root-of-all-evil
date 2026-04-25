@@ -22,4 +22,12 @@
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/finityfly/the-root-of-all-evil/tree/master/1851-minimum-interval-to-include-each-query) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/finityfly/the-root-of-all-evil/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/finityfly/the-root-of-all-evil/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
