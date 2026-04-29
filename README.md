@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/finityfly/the-root-of-all-evil/tree/master/0128-longest-consecutive-sequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/finityfly/the-root-of-all-evil/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Binary Search
 |  |
@@ -45,8 +46,21 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/finityfly/the-root-of-all-evil/tree/master/0128-longest-consecutive-sequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/finityfly/the-root-of-all-evil/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
