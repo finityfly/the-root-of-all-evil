@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
+| [3871-count-commas-in-range-ii](https://github.com/finityfly/the-root-of-all-evil/tree/master/3871-count-commas-in-range-ii) |
 ## Design
 |  |
 | ------- |
