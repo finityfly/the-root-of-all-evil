@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/finityfly/the-root-of-all-evil/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/finityfly/the-root-of-all-evil/tree/master/0134-gas-station) |
 | [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/finityfly/the-root-of-all-evil/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Binary Search
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/finityfly/the-root-of-all-evil/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
