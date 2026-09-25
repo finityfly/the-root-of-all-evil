@@ -26,11 +26,13 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/finityfly/the-root-of-all-evil/tree/master/0355-design-twitter) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/finityfly/the-root-of-all-evil/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Linked List
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/finityfly/the-root-of-all-evil/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/finityfly/the-root-of-all-evil/tree/master/0355-design-twitter) |
 | [0876-middle-of-the-linked-list](https://github.com/finityfly/the-root-of-all-evil/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/finityfly/the-root-of-all-evil/tree/master/0128-longest-consecutive-sequence) |
+| [0355-design-twitter](https://github.com/finityfly/the-root-of-all-evil/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
 ## Union-Find
 |  |
@@ -62,6 +65,7 @@
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/finityfly/the-root-of-all-evil/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
