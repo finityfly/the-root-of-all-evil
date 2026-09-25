@@ -20,7 +20,7 @@ class Twitter:
         h = []
         userList = list(self.follows[userId]) + [userId]
         for user in userList:
-            for userTweet in self.tweet[user]:
+            for userTweet in self.tweet[user][-10:]:
                 heapq.heappush(h, (-userTweet[0], userTweet[1]))
         while h and len(res) < 10:
             res.append(heapq.heappop(h)[1])
