@@ -7,6 +7,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/finityfly/the-root-of-all-evil/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/finityfly/the-root-of-all-evil/tree/master/0134-gas-station) |
+| [0152-maximum-product-subarray](https://github.com/finityfly/the-root-of-all-evil/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/finityfly/the-root-of-all-evil/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/finityfly/the-root-of-all-evil/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/finityfly/the-root-of-all-evil/tree/master/0134-gas-station) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/finityfly/the-root-of-all-evil/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
