@@ -51,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/finityfly/the-root-of-all-evil/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/finityfly/the-root-of-all-evil/tree/master/0128-longest-consecutive-sequence) |
 | [0355-design-twitter](https://github.com/finityfly/the-root-of-all-evil/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
@@ -80,4 +81,16 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/finityfly/the-root-of-all-evil/tree/master/0152-maximum-product-subarray) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/finityfly/the-root-of-all-evil/tree/master/0127-word-ladder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/finityfly/the-root-of-all-evil/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/finityfly/the-root-of-all-evil/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
