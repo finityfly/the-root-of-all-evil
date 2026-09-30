@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/finityfly/the-root-of-all-evil/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/finityfly/the-root-of-all-evil/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/finityfly/the-root-of-all-evil/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/finityfly/the-root-of-all-evil/tree/master/0152-maximum-product-subarray) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/finityfly/the-root-of-all-evil/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/finityfly/the-root-of-all-evil/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/finityfly/the-root-of-all-evil/tree/master/0128-longest-consecutive-sequence) |
 | [0355-design-twitter](https://github.com/finityfly/the-root-of-all-evil/tree/master/0355-design-twitter) |
@@ -93,4 +95,20 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/finityfly/the-root-of-all-evil/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/finityfly/the-root-of-all-evil/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/finityfly/the-root-of-all-evil/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/finityfly/the-root-of-all-evil/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/finityfly/the-root-of-all-evil/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
