@@ -14,7 +14,6 @@ public:
                 cur--;
             }
         }
-        cout << maxD << "\n";
         // at the d/2, push the char into the stack and create the return VPS encoding
         maxD = maxD / 2;
         cur = 0;
@@ -25,10 +24,6 @@ public:
             }
             if (seq[i] == '(') cur++;
         }
-        for (int i = 0; i < seq.length(); ++i) {
-            cout << res[i] << " ";
-        }
-        cout << "\n";
         return res;
     }
 };
