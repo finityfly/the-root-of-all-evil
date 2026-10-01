@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/finityfly/the-root-of-all-evil/tree/master/0037-sudoku-solver) |
+| [0052-n-queens-ii](https://github.com/finityfly/the-root-of-all-evil/tree/master/0052-n-queens-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/finityfly/the-root-of-all-evil/tree/master/0037-sudoku-solver) |
+| [0052-n-queens-ii](https://github.com/finityfly/the-root-of-all-evil/tree/master/0052-n-queens-ii) |
 ## Dancing Links
 |  |
 | ------- |
