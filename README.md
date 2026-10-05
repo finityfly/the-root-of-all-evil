@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/finityfly/the-root-of-all-evil/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/finityfly/the-root-of-all-evil/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Recursion
 |  |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/finityfly/the-root-of-all-evil/tree/master/0127-word-ladder) |
+| [0856-score-of-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/finityfly/the-root-of-all-evil/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Breadth-First Search
 |  |
@@ -118,5 +120,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/finityfly/the-root-of-all-evil/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
