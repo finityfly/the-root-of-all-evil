@@ -46,6 +46,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/finityfly/the-root-of-all-evil/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/finityfly/the-root-of-all-evil/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/finityfly/the-root-of-all-evil/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Recursion
 |  |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/finityfly/the-root-of-all-evil/tree/master/0134-gas-station) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/finityfly/the-root-of-all-evil/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/finityfly/the-root-of-all-evil/tree/master/0127-word-ladder) |
 | [0856-score-of-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/finityfly/the-root-of-all-evil/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/finityfly/the-root-of-all-evil/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Breadth-First Search
 |  |
@@ -121,5 +124,6 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/finityfly/the-root-of-all-evil/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/finityfly/the-root-of-all-evil/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
