@@ -91,6 +91,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/finityfly/the-root-of-all-evil/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/finityfly/the-root-of-all-evil/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/finityfly/the-root-of-all-evil/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/finityfly/the-root-of-all-evil/tree/master/0127-word-ladder) |
+| [0301-remove-invalid-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0301-remove-invalid-parentheses) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/finityfly/the-root-of-all-evil/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/finityfly/the-root-of-all-evil/tree/master/0052-n-queens-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
