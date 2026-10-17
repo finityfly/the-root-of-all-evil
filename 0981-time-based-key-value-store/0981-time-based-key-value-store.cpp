@@ -11,15 +11,17 @@ public:
     }
     
     string get(const string& key, int timestamp) {
-        // binary search to get timestamp less than or equal
         auto found = m.find(key);
         if (found == m.end()) return "";
-        auto &v = found->second;
-        auto it = upper_bound(v.begin(), v.end(), timestamp, [](int t, const pair<int, string>& p) {
-            return t < p.first;
-        });
-        if (it == v.begin()) return "";
-        else return prev(it)->second;
+        auto& v = found->second;
+
+        int l = 0, r = v.size();
+        while (l < r) {
+            int mid = l + (r - l) / 2;
+            if (v[mid].first <= timestamp) l = mid + 1;
+            else r = mid;
+        }
+        return l == 0 ? "" : v[l - 1].second;
     }
 };
 
