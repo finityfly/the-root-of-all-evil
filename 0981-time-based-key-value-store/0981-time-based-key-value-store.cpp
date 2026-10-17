@@ -5,11 +5,11 @@ public:
         
     }
     
-    void set(string key, string value, int timestamp) {
+    void set(const string& key, string value, int timestamp) {
         m[key].emplace_back(timestamp, move(value));
     }
     
-    string get(string key, int timestamp) {
+    string get(const string& key, int timestamp) {
         // binary search to get timestamp less than or equal
         auto found = m.find(key);
         if (found == m.end()) return "";
