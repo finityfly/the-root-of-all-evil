@@ -5,8 +5,9 @@ public:
         
     }
     
-    void set(const string& key, string value, int timestamp) {
-        m[key].emplace_back(timestamp, move(value));
+    void set(const string& key, const string& value, int timestamp) {
+        pair<int, string> temp = {timestamp, value};
+        m[key].push_back(temp);
     }
     
     string get(const string& key, int timestamp) {
