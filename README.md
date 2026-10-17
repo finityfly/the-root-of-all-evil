@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/finityfly/the-root-of-all-evil/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0981-time-based-key-value-store](https://github.com/finityfly/the-root-of-all-evil/tree/master/0981-time-based-key-value-store) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/finityfly/the-root-of-all-evil/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Sweep Line
 |  |
@@ -64,6 +65,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/finityfly/the-root-of-all-evil/tree/master/0128-longest-consecutive-sequence) |
 | [0355-design-twitter](https://github.com/finityfly/the-root-of-all-evil/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
+| [0981-time-based-key-value-store](https://github.com/finityfly/the-root-of-all-evil/tree/master/0981-time-based-key-value-store) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/finityfly/the-root-of-all-evil/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Union-Find
 |  |
@@ -79,6 +81,7 @@
 | ------- |
 | [0355-design-twitter](https://github.com/finityfly/the-root-of-all-evil/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/finityfly/the-root-of-all-evil/tree/master/0380-insert-delete-getrandom-o1) |
+| [0981-time-based-key-value-store](https://github.com/finityfly/the-root-of-all-evil/tree/master/0981-time-based-key-value-store) |
 ## Randomized
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/finityfly/the-root-of-all-evil/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0981-time-based-key-value-store](https://github.com/finityfly/the-root-of-all-evil/tree/master/0981-time-based-key-value-store) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/finityfly/the-root-of-all-evil/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Breadth-First Search
 |  |
