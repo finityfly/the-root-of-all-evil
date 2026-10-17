@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/finityfly/the-root-of-all-evil/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0278-first-bad-version](https://github.com/finityfly/the-root-of-all-evil/tree/master/0278-first-bad-version) |
 | [0981-time-based-key-value-store](https://github.com/finityfly/the-root-of-all-evil/tree/master/0981-time-based-key-value-store) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/finityfly/the-root-of-all-evil/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Sweep Line
@@ -152,4 +153,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/finityfly/the-root-of-all-evil/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/finityfly/the-root-of-all-evil/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
