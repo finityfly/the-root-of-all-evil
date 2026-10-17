@@ -89,10 +89,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/finityfly/the-root-of-all-evil/tree/master/0091-decode-ways) |
 | [0152-maximum-product-subarray](https://github.com/finityfly/the-root-of-all-evil/tree/master/0152-maximum-product-subarray) |
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/finityfly/the-root-of-all-evil/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/finityfly/the-root-of-all-evil/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/finityfly/the-root-of-all-evil/tree/master/0856-score-of-parentheses) |
