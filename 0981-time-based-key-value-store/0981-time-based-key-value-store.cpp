@@ -6,7 +6,7 @@ public:
     }
     
     void set(string key, string value, int timestamp) {
-        m[key].emplace_back(timestamp, value);
+        m[key].emplace_back(timestamp, move(value));
     }
     
     string get(string key, int timestamp) {
